@@ -15,6 +15,7 @@ Guarda los datos en un archivo JSON (`assets.json`).
 ## 🛠️ Crear y activar un entorno virtual
 
 python3 -m venv venv
+
 source venv/bin/activate
 
 pip install -r requirements.txt
