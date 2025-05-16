@@ -1,0 +1,14 @@
+[
+    {
+        "username": "johndoe2",
+        "password": "$2b$12$W9F7M9VtpYdkKgLS38.c..VJYuz2I9IqJ1mgFDWh9yHjqIPBaxTj6"
+    },
+    {
+        "username": "lala",
+        "password": "$2b$12$XwIiwu49FhgJXt9H6mNLouMBtcdLBrA0JOpG8nmgpzPaiQOUpzTzm"
+    },
+    {
+        "username": "newuser",
+        "password": "$2b$12$PQdMScxSwa1gHAsOt7mksO/Xz9yaB0ZJqqFwUSCr1GljjT.IxGTqu"
+    }
+]
